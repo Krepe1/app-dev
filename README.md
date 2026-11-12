@@ -39,6 +39,9 @@ Available on [Crunchyroll](https://www.crunchyroll.com).
 ## My Checklist
 - [x] Watched Season 1
 - [x] Watched Season 2
+- [x] Watched Season 3
+- [x] Watched Season 4
+- [x] Watched Season 5
 - [x] Rewatch the whole series
 
 ## Fun Fact
